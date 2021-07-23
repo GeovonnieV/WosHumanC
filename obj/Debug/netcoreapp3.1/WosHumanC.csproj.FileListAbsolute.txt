@@ -1,0 +1,13 @@
+C:\Users\Geo\code\wos\cSharp\WosHumanC\bin\Debug\netcoreapp3.1\WosHumanC.exe
+C:\Users\Geo\code\wos\cSharp\WosHumanC\bin\Debug\netcoreapp3.1\WosHumanC.deps.json
+C:\Users\Geo\code\wos\cSharp\WosHumanC\bin\Debug\netcoreapp3.1\WosHumanC.runtimeconfig.json
+C:\Users\Geo\code\wos\cSharp\WosHumanC\bin\Debug\netcoreapp3.1\WosHumanC.runtimeconfig.dev.json
+C:\Users\Geo\code\wos\cSharp\WosHumanC\bin\Debug\netcoreapp3.1\WosHumanC.dll
+C:\Users\Geo\code\wos\cSharp\WosHumanC\bin\Debug\netcoreapp3.1\WosHumanC.pdb
+C:\Users\Geo\code\wos\cSharp\WosHumanC\obj\Debug\netcoreapp3.1\WosHumanC.csprojAssemblyReference.cache
+C:\Users\Geo\code\wos\cSharp\WosHumanC\obj\Debug\netcoreapp3.1\WosHumanC.AssemblyInfoInputs.cache
+C:\Users\Geo\code\wos\cSharp\WosHumanC\obj\Debug\netcoreapp3.1\WosHumanC.AssemblyInfo.cs
+C:\Users\Geo\code\wos\cSharp\WosHumanC\obj\Debug\netcoreapp3.1\WosHumanC.csproj.CoreCompileInputs.cache
+C:\Users\Geo\code\wos\cSharp\WosHumanC\obj\Debug\netcoreapp3.1\WosHumanC.dll
+C:\Users\Geo\code\wos\cSharp\WosHumanC\obj\Debug\netcoreapp3.1\WosHumanC.pdb
+C:\Users\Geo\code\wos\cSharp\WosHumanC\obj\Debug\netcoreapp3.1\WosHumanC.genruntimeconfig.cache
